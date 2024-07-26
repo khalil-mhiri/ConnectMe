@@ -90,21 +90,3 @@ Before you begin, ensure you have the following software installed on your local
 
 You can now access the ConnectMe application in your web browser. You can register an account, log in, and start using the features of the application.
 
-## Contributing
-
-If you'd like to contribute to ConnectMe, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thank you to the Laravel community for providing an excellent PHP framework.
-- Special thanks to the ConnectMe development team for their hard work on this project.
-
-For any issues or questions, please [open an issue on GitHub](https://github.com/tauseedzaman/connectme/issues).
-
-Enjoy using ConnectMe!
-
-[@tauseedzaman](https://github.com/tauseedzaman)
