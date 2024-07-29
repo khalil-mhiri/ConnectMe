@@ -89,4 +89,6 @@ Before you begin, ensure you have the following software installed on your local
 ### Usage
 
 You can now access the ConnectMe application in your web browser. You can register an account, log in, and start using the features of the application.
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
